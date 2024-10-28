@@ -23,7 +23,7 @@ const Home = () => {
             <h1 className="text-lg">Box 1</h1>
           </div>
           <div className="aspect-[1/1] bg-green-200 rounded-lg shadow-lg flex items-center justify-center">
-            <img height="100%" width="100%" src='globe.png' alt="Globe" className="object-cover rounded-lg" />
+            <img height="100%" width="100%" src='/globe.png' alt="Globe" className="object-cover rounded-lg" />
           </div>
         </div>
       </div>
